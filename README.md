@@ -47,6 +47,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@adarsh_kgupta](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@adarsh78](https://www.frontendmentor.io/profile/adarsh78)
+- Twitter - [@adarsh_kgupta](https://twitter.com/adarsh_kgupta)
+- Codepen - [@adarsh78](https://codepen.io/adarsh78)
